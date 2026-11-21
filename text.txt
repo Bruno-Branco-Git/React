@@ -1,0 +1,1 @@
+echo Este é um ficheiro de texto de exemplo criado com o comando echo.
